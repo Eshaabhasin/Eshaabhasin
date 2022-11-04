@@ -2,7 +2,7 @@
 
 Hi I am Eshaa Bhasin, a high school student and this year will be getting into University for pursuing B.Tech in Computer Science. 👋😄
 
-I am skilled in Python, Mysql and basics of frontend. 
+I am a Kode with Klossy scholar and love participating in technical events and hackathons. I am skilled in Python, Mysql and basics of frontend. 
 
 - 🌱 I’m currently learning about Cloud. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshaabhasin/) | [Twitter](https://twitter.com/eshaabhasin) 
