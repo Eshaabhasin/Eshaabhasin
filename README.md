@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi I am Eshaa Bhasin, a high school student and this year will be getting into University for pursuing B.Tech in Computer Science. 👋😄
+I am skilled in Python, Mysql and basics of frontend. 
+
+- 📫 How to reach me: [Linkedin]([(https://www.linkedin.com/in/eshaabhasin](https://www.linkedin.com/in/eshaabhasin/)) 
+
 <!--
 **Eshaabhasin/Eshaabhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I am Eshaa 👯👋😄 
+
 
