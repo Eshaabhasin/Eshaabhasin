@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I am Eshaa Bhasin, a high school student and this year will be getting into University for pursuing B.Tech in Computer Science. 👋😄
+Hi I am Eshaa Bhasin a 1st year student pursuing B.Tech in Computer Science. 👋😄
 
 I am a Kode with Klossy scholar and love participating in technical events hackathons, bootcamps and Hacktoberfests. I have been a part of Google Code-in and actively contributed in the open source challenges/tasks given by our mentors. I am skilled in Python, Mysql and basics of frontend. 
 
