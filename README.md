@@ -6,7 +6,7 @@ I am a Kode with Klossy scholar and love participating in technical events hacka
 
 - 🌱 I’m currently learning about Data-Science. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshaabhasin/) | [Twitter](https://twitter.com/eshaabhasin) 
-- 📃 Read out my blog on: [Medium](https://medium.com/@eshaabhasin4/everything-about-python-lists-a61b69dcb132)
+- 📃 Read out my blog on: [Medium](https://medium.com/@eshaabhasin4/everything-about-python-lists-a61b69dcb132) [Hashnode] (https://eshaabhasin.hashnode.dev/everything-about-python-strings)
 - 😄 Pronouns: She/Her💖
 - ⚡ Fun fact: I love Dancing & travelling 📷
 
