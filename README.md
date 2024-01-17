@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Eshaa Bhasin</h1>
 <h3 align="center">A 2nd year student pursuing B.Tech in Computer Science.</h3>
