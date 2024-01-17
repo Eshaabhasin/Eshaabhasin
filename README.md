@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/eshaabhasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshaabhasin/" height="30" width="40" /></a>
 <a href="https://hashnode.com/eshaabhasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="eshaabhasin" height="30" width="40" /></a>
 </p>
-
+<div align="center">
 <h2>My Skills ⚙</h2>
 
   <h3>Languages</h3>
@@ -27,7 +27,7 @@
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   <h3>Tools</h3>
-
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaabhasin&show_icons=true&locale=en&layout=compact" alt="eshaabhasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaabhasin&show_icons=true&locale=en" alt="eshaabhasin" /></p>
