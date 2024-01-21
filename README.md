@@ -29,8 +29,7 @@
 </div>
 <div align="center">
   <h2>My Stats 📊</h2>
-  <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaabhasin&show_icons=true&locale=en&layout=compact" alt="eshaabhasin" /></p>
+  <br></br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaabhasin&show_icons=true&locale=en&layout=compact" alt="eshaabhasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaabhasin&show_icons=true&locale=en" alt="eshaabhasin" /></p>
 
