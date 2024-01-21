@@ -25,6 +25,9 @@
   <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css" />
+   <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  
 
 </div>
 <div align="center">
