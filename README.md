@@ -31,11 +31,10 @@
   <h2>My Stats 📊</h2>
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaabhasin&show_icons=true&locale=en" alt="eshaabhasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaabhasin&" alt="eshaabhasin" /></p>
 </div>
- <div algin="center">
+ <div algin="left">
 
   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshaabhasin&theme=transparent)
 
