@@ -29,13 +29,13 @@
 </div>
 <div align="center">
   <h2>My Stats 📊</h2>
-  <br></br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaabhasin&show_icons=true&locale=en&layout=compact" alt="eshaabhasin" /></p>
+ 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaabhasin&show_icons=true&locale=en" alt="eshaabhasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaabhasin&" alt="eshaabhasin" /></p>
 </div>
- <div algin="left">
+ <div algin="center">
 
   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshaabhasin&theme=transparent)
 
