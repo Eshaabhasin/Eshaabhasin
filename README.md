@@ -27,13 +27,23 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 
 </div>
-<div align="centre">
+<div align="center">
+  <h2>My Stats 📊</h2>
+  <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaabhasin&show_icons=true&locale=en&layout=compact" alt="eshaabhasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaabhasin&show_icons=true&locale=en" alt="eshaabhasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaabhasin&" alt="eshaabhasin" /></p>
 </div>
+ <div algin="left">
+
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshaabhasin&theme=transparent)
+
+  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eshaabhasin&theme=transparent)
+  
+  </div>
+
 
 <!--
 **Eshaabhasin/Eshaabhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
