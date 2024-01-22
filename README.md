@@ -27,6 +27,8 @@
   <img src="https://skillicons.dev/icons?i=html,css" />
    <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,vscode" />
+<h3>Database</h3>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   
 
 </div>
