@@ -26,7 +26,7 @@
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
    <h3>Tools</h3>
-   <img src="https://skillicons.dev/icons?i=git,vscode,ps,vercel" />
+   <img src="https://skillicons.dev/icons?i=git,vscode,vercel" />
 <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongo" />
   
