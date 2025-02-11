@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/eshaabhasin/**
 
-- ⚡ Fun fact **I love Dancing, playing Badminton & travelling 📷**
+- ⚡ Fun fact **I love dancing, playing Badminton & travelling 📷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
