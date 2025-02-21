@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Eshaa Bhasin</h1>
+<h1 align="center">Hi 👋, I'm Eshaa Bhasin ✨</h1>
 <h3 align="center">A 3rd year student pursuing B.Tech in Computer Science ✨</h3>
 
 - 🔭 I’m currently working on **expanding my skillset**
