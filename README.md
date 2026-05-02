@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **expanding my skills**
 
-- 🌱 I’m currently learning **Backend**
-
 - 📝 I regularly write articles on [https://eshaabhasin.hashnode.dev/](https://eshaabhasin.hashnode.dev/) https://medium.com/@eshaabhasin4
 
 - 📫 How to reach me **https://www.linkedin.com/in/eshaabhasin/** **https://x.com/EshaaBhasin**
